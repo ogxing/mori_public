@@ -1,29 +1,18 @@
 {
   "files": {
-    "main.css": "/mori_public/static/css/main.0b7afbb8.css",
-    "main.js": "/mori_public/static/js/main.d36f91ea.js",
+    "main.css": "/mori_public/static/css/main.24e0ba5c.css",
+    "main.js": "/mori_public/static/js/main.b1b64a29.js",
     "static/js/787.548068d5.chunk.js": "/mori_public/static/js/787.548068d5.chunk.js",
+    "static/media/OldStyleNormal.woff2": "/mori_public/static/media/OldStyleNormal.268b8a8bcfaa2d70a3da.woff2",
     "static/media/law.jpg": "/mori_public/static/media/law.d31c3443833428ae5368.jpg",
     "static/media/workplace.jpg": "/mori_public/static/media/workplace.7b922d5681ffaeac21fa.jpg",
-    "static/media/noto-sans-sc-latin-700.woff": "/mori_public/static/media/noto-sans-sc-latin-700.f99c7706d60aafc8f681.woff",
-    "static/media/noto-sans-sc-latin-900.woff": "/mori_public/static/media/noto-sans-sc-latin-900.67a7ea19ed3ea281bf73.woff",
-    "static/media/noto-sans-sc-latin-500.woff": "/mori_public/static/media/noto-sans-sc-latin-500.1210340a8cfbbf540113.woff",
-    "static/media/noto-sans-sc-latin-400.woff": "/mori_public/static/media/noto-sans-sc-latin-400.d14677832349f26ac7c1.woff",
-    "static/media/noto-sans-sc-latin-300.woff": "/mori_public/static/media/noto-sans-sc-latin-300.7f081d8c07bc8eab8fd8.woff",
-    "static/media/noto-sans-sc-latin-100.woff": "/mori_public/static/media/noto-sans-sc-latin-100.58d5fbbbe4ccc18a5bc7.woff",
-    "static/media/noto-sans-sc-latin-700.woff2": "/mori_public/static/media/noto-sans-sc-latin-700.c6cd00f2eec56387b45d.woff2",
-    "static/media/noto-sans-sc-latin-900.woff2": "/mori_public/static/media/noto-sans-sc-latin-900.6d9705a4aa1ecd8370aa.woff2",
-    "static/media/noto-sans-sc-latin-500.woff2": "/mori_public/static/media/noto-sans-sc-latin-500.201a7f649432c9c6bc6d.woff2",
-    "static/media/noto-sans-sc-latin-400.woff2": "/mori_public/static/media/noto-sans-sc-latin-400.96d7ebc04ea315c8cc32.woff2",
-    "static/media/noto-sans-sc-latin-300.woff2": "/mori_public/static/media/noto-sans-sc-latin-300.c4a70611a1f7e7c8d5dd.woff2",
-    "static/media/noto-sans-sc-latin-100.woff2": "/mori_public/static/media/noto-sans-sc-latin-100.a534b9686f145a8efa38.woff2",
     "index.html": "/mori_public/index.html",
-    "main.0b7afbb8.css.map": "/mori_public/static/css/main.0b7afbb8.css.map",
-    "main.d36f91ea.js.map": "/mori_public/static/js/main.d36f91ea.js.map",
+    "main.24e0ba5c.css.map": "/mori_public/static/css/main.24e0ba5c.css.map",
+    "main.b1b64a29.js.map": "/mori_public/static/js/main.b1b64a29.js.map",
     "787.548068d5.chunk.js.map": "/mori_public/static/js/787.548068d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b7afbb8.css",
-    "static/js/main.d36f91ea.js"
+    "static/css/main.24e0ba5c.css",
+    "static/js/main.b1b64a29.js"
   ]
 }
