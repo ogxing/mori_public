@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mori_public/static/css/main.0b7afbb8.css",
-    "main.js": "/mori_public/static/js/main.b962adac.js",
+    "main.js": "/mori_public/static/js/main.0ac0719c.js",
     "static/js/787.548068d5.chunk.js": "/mori_public/static/js/787.548068d5.chunk.js",
     "static/media/law.jpg": "/mori_public/static/media/law.d31c3443833428ae5368.jpg",
     "static/media/workplace.jpg": "/mori_public/static/media/workplace.7b922d5681ffaeac21fa.jpg",
@@ -19,11 +19,11 @@
     "static/media/noto-sans-sc-latin-100.woff2": "/mori_public/static/media/noto-sans-sc-latin-100.a534b9686f145a8efa38.woff2",
     "index.html": "/mori_public/index.html",
     "main.0b7afbb8.css.map": "/mori_public/static/css/main.0b7afbb8.css.map",
-    "main.b962adac.js.map": "/mori_public/static/js/main.b962adac.js.map",
+    "main.0ac0719c.js.map": "/mori_public/static/js/main.0ac0719c.js.map",
     "787.548068d5.chunk.js.map": "/mori_public/static/js/787.548068d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b7afbb8.css",
-    "static/js/main.b962adac.js"
+    "static/js/main.0ac0719c.js"
   ]
 }
