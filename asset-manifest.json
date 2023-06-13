@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mori_public/static/css/main.24e0ba5c.css",
-    "main.js": "/mori_public/static/js/main.b1b64a29.js",
+    "main.js": "/mori_public/static/js/main.491c435c.js",
     "static/js/787.548068d5.chunk.js": "/mori_public/static/js/787.548068d5.chunk.js",
     "static/media/OldStyleNormal.woff2": "/mori_public/static/media/OldStyleNormal.268b8a8bcfaa2d70a3da.woff2",
     "static/media/law.jpg": "/mori_public/static/media/law.d31c3443833428ae5368.jpg",
     "static/media/workplace.jpg": "/mori_public/static/media/workplace.7b922d5681ffaeac21fa.jpg",
     "index.html": "/mori_public/index.html",
     "main.24e0ba5c.css.map": "/mori_public/static/css/main.24e0ba5c.css.map",
-    "main.b1b64a29.js.map": "/mori_public/static/js/main.b1b64a29.js.map",
+    "main.491c435c.js.map": "/mori_public/static/js/main.491c435c.js.map",
     "787.548068d5.chunk.js.map": "/mori_public/static/js/787.548068d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24e0ba5c.css",
-    "static/js/main.b1b64a29.js"
+    "static/js/main.491c435c.js"
   ]
 }
