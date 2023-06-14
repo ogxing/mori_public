@@ -50,6 +50,15 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&amp;amp;display=swap"
     />
+
+    <!-- https://fonts.google.com/noto/specimen/Noto+Sans+SC -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap"
+      rel="stylesheet"
+    />
+
     <script src="http://yubinbango.github.io/yubinbango/yubinbango.js" charset="UTF-8"></script>
     <script>
       var ga_tracking_id = '';
@@ -339,6 +348,8 @@
 
       if (detect()?.name.includes('edge')) {
         document.body.style.fontFamily = 'Microsoft YaHei';
+      } else {
+        document.body.style.fontFamily = 'Noto Sans SC';
       }
     </script>
   </body>
